@@ -4,7 +4,7 @@
   "description": "Jest bug: `--bail` does not work",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watchAll --bail",
+    "test": "jest --bail",
     "exec": "exec"
   },
   "keywords": [],
